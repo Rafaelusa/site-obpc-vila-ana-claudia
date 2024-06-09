@@ -41,10 +41,14 @@
   }
 }
 
+#carrossel{
+  padding: 30px 0 0 0;
+}
+
 .section__container {
   max-width: var(--max-width);
   margin: auto;
-  padding: 5rem 1rem;
+  padding: 1rem 1rem;
 }
 
 .section__subheader {
@@ -183,7 +187,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
-  background-color: var(--primary-color);
+  background-color: transparent;
 }
 
 .nav__menu__btn {
