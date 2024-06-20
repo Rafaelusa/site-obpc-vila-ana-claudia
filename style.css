@@ -617,6 +617,7 @@ div#inicio{
   justify-content: center;
   padding: 10px 0;
   color: var(--white);
+  font-size: clamp(0.8rem, 1.5vw, 1.2rem);
 }
 
 iframe {
